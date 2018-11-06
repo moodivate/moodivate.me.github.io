@@ -1,0 +1,112 @@
+body {
+
+}
+
+.topnav { /*navigation bar*/
+    background-color: white;
+    overflow: hidden;
+    max-height: 10%;
+    max-width: 36;
+    margin-left: 5%;
+    margin-top: 3%;
+    margin-right: 5%;
+    margin-bottom:1%;
+   
+   
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    font-family: 'Miriam Libre', sans-serif;
+    float: right;
+    display: block;
+    color: black;
+    text-align: right;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: .5%;
+    margin-right: .5%;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+    
+.topnav a.active {
+    background-color: #FBF685;
+    color:white;
+    }
+
+#websiteTitle{
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-size: 76px;
+    color: #D8E5E9;
+}
+
+#titleDescription{
+    font-family: 'Bellefair', serif;
+    font-size: 30px;
+    color:#F5B7B1;
+    text-align: center;
+    
+}
+
+#directions {
+    font-family: 'Bellefair', serif;
+/*    font-family: 'Playfair Display', serif;*/
+    font-size: 20px;
+    color: #F5B7B1;
+}
+
+.header { /*header text box*/
+    /*padding*/
+    padding-top: 4%;
+    padding-bottom: 10%;
+    padding-right: 5%;
+    padding-left: 5%;
+    
+    /*margins*/
+    margin-left: 5%;
+    margin-top: 3%;
+    margin-right: 5%;
+    margin-bottom:5%;
+    
+    background-color: white; 
+    text-align: center;
+    }
+
+
+.header h4 {
+    font-family: 'Goudy Bookletter 1911', serif;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.header h3 {
+    font-family: 'Goudy Bookletter 1911', serif;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.header2 {
+    font-family: 'Goudy Bookletter 1911', serif;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 5%;
+    padding-left: 5%;
+    
+    /*margins*/
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-right: 5%;
+    margin-bottom:1%;
+    font-size: 20px;
+    
+    background-color: white; 
+    text-align: center;
+    color: #D8E5E9
+}
+
