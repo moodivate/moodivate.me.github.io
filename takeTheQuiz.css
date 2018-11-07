@@ -260,3 +260,14 @@ h6{
     
     
 }
+
+button{
+    p {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.dropdown{
+    padding-left: 600px;
+}
+}
